@@ -1,0 +1,1 @@
+new fullpage("#fullPage",{autoScrolling:!0,navigation:!0,controlArrows:!1,slidesNavigation:!0});

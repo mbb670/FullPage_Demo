@@ -13,3 +13,21 @@ ul{
         list-style: none;
     }
 }
+
+body{
+    font-family: helvetica;
+}
+
+article{
+    padding-left: 5vw;
+}
+
+
+// adjustments to FullPage css
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+    background: $white !important;
+}
+
+#fp-nav ul, .fp-slidesNav ul {
+        margin-left: 5vw !important;
+}
