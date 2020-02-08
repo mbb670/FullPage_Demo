@@ -327,6 +327,20 @@ body {
 article {
   padding-left: 5vw; }
 
+a {
+  font-size: 0.875rem;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.4);
+  transition: 0.25s; }
+  a:hover {
+    color: #000; }
+
+#element1 {
+  position: fixed;
+  top: 30px;
+  left: 5vw;
+  color: white; }
+
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
   background: #fff !important; }
 
